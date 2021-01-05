@@ -3251,6 +3251,10 @@ void redisSetProcTitle(char *title) {
 #endif
 }
 
+// Redis系列文章链接汇总
+// https://blog.csdn.net/men_wen/article/details/75668345
+// https://github.com/huangz1990/redis-3.0-annotated
+
 int main(int argc, char **argv) {
     struct timeval tv;
 
